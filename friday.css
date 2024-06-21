@@ -1,0 +1,216 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: cursive;
+}
+body{
+	height: 2500px;
+	width: 900px;
+	
+	box-sizing: content-box;
+}
+h1{
+	margin-left: 40px;
+	}
+a{
+	text-decoration: none;
+	color:rgba(0, 255, 255, 0.658);
+	margin-left: 50px;
+	font-size: 20px;
+	}
+input{
+	border: black solid 2px;
+}
+div{
+	height: 400px;
+	width: 500px;
+	margin-left: 0px;
+	background-image: url(hotle1.png);
+	background-size: cover;
+
+}
+#div:hover{
+	transform: scale(1.1);
+}
+#front{
+	height: 650px;
+	width: 1300px;
+	background-color: pink;
+
+}
+button{
+	margin-left:130px ;
+
+}
+#Rooms{
+	height: 650px;
+	width: 1300px;
+	background-color: purple;
+}
+#PartyHall{
+	height: 650px;
+	width: 1300px;
+	background-color: orange;
+}
+#CheckIn{
+	height: 650px;
+	width: 1300px;
+	background-color: yellow;
+}
+#Day{
+	margin-left: 200px;
+}
+#Hall{
+	
+	height: 400px;
+	margin-left: 50px;
+	width: 300px;
+	background-image: url(Party.png);
+	background-size: cover;
+	display: inline-block;
+	position: relative;
+}
+#Hall:hover{
+	transform: scale(1.1);
+}
+#hwll{
+	height: 400px;
+	margin-left: 50px;
+	width: 300px;
+	display: inline-block;
+	background-image: url(seParty.png);
+	background-size: cover;
+
+}
+#hwll:hover{
+	transform: scale(1.1);
+}
+#Nh{
+	height: 400px;
+	margin-left: 50px;
+	width: 300px;
+	display: inline-block;
+	background-image: url(3Party.png);
+	background-size: cover;
+
+}
+#Nh:hover{
+	transform: scale(1.1);
+}
+#first{
+	height: 300px;
+	width: 200px;
+	display: inline-block;
+	border: 2px solid black;
+	margin-left: 40px;
+	background-color: orange;
+	background-size: black solid black;
+}
+#first:hover{
+	transform: scale(1.1);
+}
+
+#Second{
+	height: 300px;
+	width: 200px;
+	margin-left: 40px;
+	border: 2px solid black;
+	display: inline-block;
+	background-color: orange;
+}
+#Second:hover{
+	transform: scale(1.1);
+}
+#forth{
+	height: 300px;
+	width: 200px;
+	border: 2px solid black;
+	margin-left: 40px;
+	display: inline-block;
+	background-color: orange;
+}
+#forth:hover{
+	transform: scale(1.1);
+}
+#five{
+	height: 300px;
+	width: 200px;
+	border: 2px solid black;
+	margin-left: 40px;
+	display: inline-block;
+	background-color: orange;
+}
+#five:hover{
+	transform: scale(1.1);
+}
+#Sixe{
+	height: 300px;
+	width: 200px;
+	margin-left: 40px;
+	border: 2px solid black;
+	display: inline-block;
+	background-color: orange;
+
+}
+#Sixe:hover{
+	transform: scale(1.1);
+}
+#Checkout{
+	height: 650px;
+	width: 1300px;
+	background-color: yellow;
+}
+label{
+	margin-left: 40px;
+	color: rgba(0, 255, 255, 0.71);
+}
+#Up{
+	margin-left: 1100px;
+	border: black solid 2px;
+}
+#Now{
+	background-color: green;
+}
+/*header{
+	position: fixed;
+}*/
+#heading{
+	color: aqua;
+	height: 30px;
+	width: 1300px;
+	position: fixed;
+	margin-left:0px;
+	background-color: black;
+	
+
+}
+
+footer{
+	height: 600px;
+	width: 1300px;
+	background-color: gray;
+}
+i{
+	font-size: 40px;
+	margin-left: 200px;
+}
+img{
+	margin-left: 100px;
+	margin-bottom: 70px;
+}
+#map{
+	margin-left: 600px;
+	margin-top: -400px;
+}
+.dropdown{
+	margin-left: 1000px;
+	margin-bottom:-10000px;
+	height: 100px;
+	width: 200px;
+	background-image: none;
+}
+.dropdown-content{
+	height: 300px;
+	width: 300px;
+	background-image: none;
+}

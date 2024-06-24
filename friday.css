@@ -100,6 +100,7 @@ button{
 #first{
 	height: 300px;
 	width: 200px;
+	display: flex;
 	display: inline-block;
 	border: 2px solid black;
 	margin-left: 40px;
